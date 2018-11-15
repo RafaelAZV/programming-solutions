@@ -1,0 +1,2 @@
+- The stack has to keep a pair with the string and the command that generated it.
+Example: <"abbc", operation_number>

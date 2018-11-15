@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540856096 source:/home/rafael/hackerrank/special_subtree/main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+

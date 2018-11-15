@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540332993 source:/home/rafael/hackerrank/even_trees/even_trees/main.cpp
+	<iostream>
+	<vector>
+

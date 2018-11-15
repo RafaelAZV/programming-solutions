@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541086081 source:/home/rafael/hackerrank/balanced_brackets/balanced_brackets/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stack>
+

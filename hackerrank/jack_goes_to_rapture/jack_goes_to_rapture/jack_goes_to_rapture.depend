@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540919050 source:/home/rafael/hackerrank/jack_goes_to_rapture/jack_goes_to_rapture/main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+

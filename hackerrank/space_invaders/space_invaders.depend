@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542307227 source:/home/rafael/hackerrank/space_invaders/main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string>
+	<termios.h>
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+

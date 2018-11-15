@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540477228 source:/home/rafael/hackerrank/journey_to_the_moon/journey_to_the_moon/main.cpp
+	<iostream>
+	<vector>
+
