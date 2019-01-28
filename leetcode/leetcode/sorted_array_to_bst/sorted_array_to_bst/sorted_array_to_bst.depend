@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544965005 source:/home/rafael/leetcode/sorted_array_to_bst/sorted_array_to_bst/main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

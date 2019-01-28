@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545054261 source:/home/rafael/leetcode/group_anagrams/group_anagrams/main.cpp
+	<iostream>
+	<vector>
+	<string>
+

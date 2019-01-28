@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544977857 source:/home/rafael/leetcode/atoi/atoi/main.cpp
+	<iostream>
+	<cctype>
+	<cmath>
+	<climits>
+

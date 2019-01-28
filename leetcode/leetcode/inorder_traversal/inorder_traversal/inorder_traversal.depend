@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545148669 source:/home/rafael/leetcode/inorder_traversal/inorder_traversal/main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

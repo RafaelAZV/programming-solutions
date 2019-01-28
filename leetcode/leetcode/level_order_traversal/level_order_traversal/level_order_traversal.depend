@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544907156 source:/home/rafael/leetcode/level_order_traversal/level_order_traversal/main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

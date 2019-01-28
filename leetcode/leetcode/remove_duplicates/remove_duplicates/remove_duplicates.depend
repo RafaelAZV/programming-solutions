@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545223563 source:/home/rafael/leetcode/remove_duplicates/remove_duplicates/main.cpp
+	<iostream>
+	<vector>
+
