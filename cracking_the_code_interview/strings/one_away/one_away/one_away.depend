@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544797521 source:/home/rafael/cracking_the_code_interview/strings/one_away/one_away/main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<stdlib.h>
+

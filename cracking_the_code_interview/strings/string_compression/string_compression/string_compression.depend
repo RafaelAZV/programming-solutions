@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544818047 source:/home/rafael/cracking_the_code_interview/strings/string_compression/string_compression/main.cpp
+	<iostream>
+	<string>
+
